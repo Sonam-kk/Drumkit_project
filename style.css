@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(102, 100, 100);
+}
+h1{
+    font-size: 5rem;
+    color: black;
+    text-shadow: 3px 0 grey;
+}
+.name{
+    margin-top: 25vh;
+}
+.drum{
+    border: 10px 0 rgb(7, 7, 7);
+    font-size: 5rem;
+    padding-bottom: 70px;
+    color: rgb(8, 8, 8);
+    text-shadow: 3px 0 rgb(58, 57, 57);
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(238, 237, 237);
+}
+.w{
+background:url(drumkits.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 150px 250px;
+}
+
